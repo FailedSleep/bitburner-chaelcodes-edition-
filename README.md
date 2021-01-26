@@ -1,5 +1,5 @@
-# Bitburner
-Bitburner is a programming-based [incremental game](https://en.wikipedia.org/wiki/Incremental_game)
+# BitBurner (ChaelCodes Edition)
+BitBurner is a programming-based [incremental game](https://en.wikipedia.org/wiki/Incremental_game)
 that revolves around hacking and cyberpunk themes.
 The game can be played at https://danielyxie.github.io/bitburner.
 
